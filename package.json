@@ -1,0 +1,15 @@
+{
+  "name": "swagger_test",
+  "version": "1.0.0",
+  "description": "playing with swagger",
+  "main": "index.js",
+  "dependencies": {
+    "swagger-js-codegen": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunzi Mariano",
+  "license": "ISC"
+}
